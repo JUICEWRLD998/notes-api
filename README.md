@@ -60,6 +60,3 @@ The server will start on the port specified in the `.env` file (default is 3000)
 
 The API includes basic error handling. If an error occurs, a JSON response will be returned with the error message and status code.
 
-## License
-
-This project is licensed under the MIT License.
